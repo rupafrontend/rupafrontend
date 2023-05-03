@@ -1,12 +1,17 @@
 (https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 ### Hi there 👋, I am Sabikunnahar Rupa
-#### I am a frontend devoloper
-![I am a frontend devoloper]
+
+#### I am a frontend devoloper, my focus is o designing and building the user-facing part of websites and web aplications. I have a strong understanding of HTML,CSS     and JavaScript as well as experience working with pupulaar frontend frameworks like React and angular.
+### My goal is to create engaging and intuitive interfaces that enhance the user experience and help business achive their goals.
+### throughout my career , I have worked on a varity of projects, ranging from small websites to comple web aplications. 
+
+## I am always looking for new ways to improve my skills and stay up to date with latest tecnologies and trends.
+### As a collaborative team member, I enjoy working closely with designers, backend developers and project managers to ensure that the frontend of a website or application meets their needs of both businesss and the user
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:   HTML / CSS/JS/Bootstrap
+Skills:   HTML / CSS /JS /Bootstrap /tailwind css
 
 - 🔭 I’m currently working on github 
 - 🌱 I’m currently learning javascript 
@@ -14,20 +19,4 @@ Skills:   HTML / CSS/JS/Bootstrap
 - 💬 Ask me about frontend 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rupafrontend)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rupafrontend)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupafrontend)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupafrontend&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rupafrontend)  
-
-![GitHub metrics](https://metrics.lecoq.io/rupafrontend)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rupafrontend)  
-
-![Profile views](https://gpvc.arturio.dev/rupafrontend)  
