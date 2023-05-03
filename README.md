@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I am Sabikunnahar Rupa
 
-###I am a frontend devoloper, my focus is o designing and building the user-facing part of websites and web aplications. I have a strong understanding of HTML,CSS     and JavaScript as well as experience working with pupulaar frontend frameworks like React and angular.
+### I am a frontend devoloper, my focus is o designing and building the user-facing part of websites and web aplications. I have a strong understanding of HTML,CSS     and JavaScript as well as experience working with pupulaar frontend frameworks like React and angular.
 ### My goal is to create engaging and intuitive interfaces that enhance the user experience and help business achive their goals.
 ### throughout my career , I have worked on a varity of projects, ranging from small websites to comple web aplications. 
 
